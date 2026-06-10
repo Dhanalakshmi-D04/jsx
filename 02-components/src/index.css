@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'helvetica neue';
+
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.card {
+
+  background-color: rgb(160, 221, 208);
+  border-radius: 5px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.Nav {
+  background-color: rgb(216, 130, 179);
+  margin: 5px;
+  padding: 20px;
+}
